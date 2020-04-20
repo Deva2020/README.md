@@ -1,12 +1,12 @@
 @font-face {
     font-family:'KirtanUni';
-    src: url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.eot');
-	src: url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.eot?#iefix') format('embedded-opentype'),
-		url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.woff2') format('woff2'),
-		url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.woff') format('woff'),
-		url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.ttf') format('truetype'),
-		url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.otf') format('opentype'),
-		url('https://github.com/Deva2020/README.md/blob/master/KirtanUni.svg#KirtanUni') format('svg');
+    src: url('//github.com/Deva2020/README.md/blob/master/KirtanUni.eot');
+	src: url('//github.com/Deva2020/README.md/blob/master/KirtanUni.eot?#iefix') format('embedded-opentype'),
+		url('//github.com/Deva2020/README.md/blob/master/KirtanUni.woff2') format('woff2'),
+		url('//github.com/Deva2020/README.md/blob/master/KirtanUni.woff') format('woff'),
+		url('//github.com/Deva2020/README.md/blob/master/KirtanUni.ttf') format('truetype'),
+		url('//github.com/Deva2020/README.md/blob/master/KirtanUni.otf') format('opentype'),
+		url('//github.com/Deva2020/README.md/blob/master/KirtanUni.svg#KirtanUni') format('svg');
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
